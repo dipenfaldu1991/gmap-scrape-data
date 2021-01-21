@@ -19,4 +19,3 @@ If you want to generate the correct url:
 2. Click on the number of reviews in the parenthesis;
 3. Save the url that is generated from the latest interaction.
 
-For a basic description of logic and approach about this software development, have a look at the [Medium post](https://towardsdatascience.com/scraping-google-maps-reviews-in-python-2b153c655fc2)
